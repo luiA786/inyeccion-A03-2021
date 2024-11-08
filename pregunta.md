@@ -39,4 +39,4 @@ function checkAnswer() {
     result.style.color = "red";
   }
 }
-</script>
+</script> 
