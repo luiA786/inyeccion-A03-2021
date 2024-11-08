@@ -14,7 +14,6 @@ Este repositorio es sobre el tema de Inyección (A03:2021) del Top 10 de OWASP. 
 
 ---
 
-**Enlace a la Wiki:** [https://luiA786.github.io/Inyeccion](https://username.github.io/Inyeccion) 
-.
+**Enlace a la Wiki:** https://github.com/luiA786/inyeccion-A03-2021 
 
 
