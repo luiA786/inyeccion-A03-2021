@@ -15,9 +15,6 @@ Este repositorio es sobre el tema de Inyección (A03:2021) del Top 10 de OWASP. 
 ---
 
 **Enlace a la Wiki:** [https://username.github.io/Inyeccion](https://username.github.io/Inyeccion) (Reemplaza `username` con tu nombre de usuario de GitHub)
-
-# Resumen en inglés
-
-Injection is a type of attack that allows an attacker to send malicious commands to an application, potentially gaining unauthorized access to sensitive data or disrupting the application's functionality. This vulnerability ranks third in OWASP's Top 10 due to its impact on security and ease of exploitation.
+.
 
 
